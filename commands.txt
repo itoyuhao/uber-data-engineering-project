@@ -1,3 +1,5 @@
+# Set up the environment of Google Compute Engine 
+
 # Install Python and pip 
 sudo apt-get install update
 
