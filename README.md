@@ -5,7 +5,7 @@
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture 
-![](https://hackmd.io/_uploads/SJKgLYiIn.png)
+<img src="images\architecture.png">
 
 
 ## Technology Used
@@ -31,24 +31,24 @@ More info about dataset can be found here:
 -  Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-![](https://hackmd.io/_uploads/HyBTeYjU3.png)
+<img src="images\data_model.png">
 
 
 ## Screenshot
 
-![](https://hackmd.io/_uploads/HyApCviL2.png)
+<img src="images\mage-2.png">
 
 ---
 
-![](https://hackmd.io/_uploads/SyrqPuiL3.png)
+<img src="images\mage.png">
 
 ---
 
-![](https://hackmd.io/_uploads/Skybjuo82.png)
+<img src="images\compute_engine.png">
 
 ---
 
-![](https://hackmd.io/_uploads/B1IdWOjLh.png)
+<img src="images\gbq.png">
 
 
 
